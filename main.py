@@ -67,7 +67,7 @@ cwd = os.getcwd()
 cookies_dir = os.path.join(cwd, 'cookies')
 
 #load the contacts to be sent from the csv
-massmessage = "contact.csv"
+massmessage = "template.csv"
 sendToContacts = filter_the_contacts(massmessage)
 
 # load webdriver

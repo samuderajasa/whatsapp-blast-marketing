@@ -56,5 +56,5 @@ The code will run in background. You can monitor the message status in the comma
 - .. is not found -> the recipient is not on whatsapp or not in your saved contact list
 
 ## Limitation :warning:
-+ This code limit 100 messages for safety purpose (including failed to sent). You can simply run it again to send more messages. Be careful of getting banned by WA
-+ You can't send to recipients that not in saved contact list. (I Still trying to figure it out the most efficent way)
++ This code limit 100 messages for safety purpose. You can simply run it again to send more messages. Be careful of getting banned by WA
++ You can't send to recipients that not in saved contact list. (I still trying to figure it out the most efficent way)
